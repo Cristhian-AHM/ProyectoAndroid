@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="edittext_textsize_login">20sp</dimen>
+    <dimen name="edittext_textview_login">30sp</dimen>
+    <dimen name="padding_horizontal_login">32dp</dimen>
+    <dimen name="padding_horizontal_register">32dp</dimen>
+    <dimen name="margin_vertical_register_fields">5dp</dimen>
+    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="cornerradius_cardview">4dp</dimen>
+    <dimen name="activity_vectical_margin">16dp</dimen>
+    <dimen name="textsize_username_card">35sp</dimen>
+    <dimen name="firstword_textsize_card">20sp</dimen>
+    <dimen name="timecard_marginleft_card">16dp</dimen>
+    <dimen name="like_margintop_card">15dp</dimen>
+    <dimen name="image_width">130dp</dimen>
+    <dimen name="image_final_width">32dp</dimen>
+    <dimen name="spacing_normal">16dp</dimen>
+</resources>

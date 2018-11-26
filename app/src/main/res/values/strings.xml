@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="title_activity_prueba">PruebaActivity</string>
+    <string name="hint_username">Introduce tu nombre de usuario</string>
+    <string name="hint_password">Introduce tu Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="text_textview_login">Registrate</string>
+    <string name="olvidado">¿Has olvidado tu contraseña?</string>
+    <string name="aqui">, Has click aquí.</string>
+
+    <string name="title_activity_register">Registro</string>
+    <string name="register_hint_correo">Correo</string>
+    <string name="register_hint_nombre">Nombre</string>
+    <string name="register_hint_usuario">Usuario</string>
+    <string name="register_hint_password">Contraseña</string>
+    <string name="register_hint_confirm_password">Confirmar contraseña</string>
+    <string name="button_confirm">Únete</string>
+    <string name="title_activity_botom_bar">BotomBarActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Buscar</string>
+    <string name="title_profile">Perfil</string>
+
+    <string name="username_card">Cristhian</string>
+    <string name="transitionname_picture">Picture</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card"> 1 hora</string>
+    <string name="likenumbercard_card">1</string>
+
+    <string name="tarjeta_2">Titulo</string>
+    <string name="date">18/10/2018</string>
+    <string name="like">Me Gusta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="proyecto">Proyecto</string>
+    <string name="register_button_confirm">Confirmar</string>
+
+
+</resources>
